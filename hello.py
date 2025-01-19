@@ -29,6 +29,7 @@ def main():
 
    for row in range(10):
      print(f'{row}.... Hello World') 
+     print(f'{row}.... Whats up ') 
 
 
 ## End main }
