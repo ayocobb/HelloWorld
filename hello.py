@@ -28,8 +28,7 @@ def val_ipaddr (ipaddr,*message):
 def main():
 
    for row in range(10):
-     print(f'{row}.... Hello World') 
-     print(f'{row}.... Whats up ') 
+     print(f'{row}.... Hello Ayobami') 
 
 
 ## End main }
